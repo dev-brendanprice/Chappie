@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/37771600/162176354-ada7adfd-b53a-4260-8565-15c1ce48d300.png" height="350">
-
 > All purpose, AI driven, discord bot. Built to be self-aware and all-knowing.
 
 ### ✨ [Invite the Bot](https://example.com)
