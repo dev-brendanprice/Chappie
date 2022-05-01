@@ -14,9 +14,10 @@
 
 1. Download the latest version from the <a href="https://github.com/brendanprice2003/Chappie/releases">releases page</a>. 
 2. Install the necessary dependencies and packagies with `npm install`.
-3. Update the bot token in `.env`. Obtain token from https://discord.com/developers/.
-4. Start the bot with `node index.js`.
-5. Enjoy!
+3. Update the bot token in `example.env`. Obtain token from https://discord.com/developers/.
+4. Rename `example.env` to `.env`.
+5. Start the bot with `node index.js`.
+6. Enjoy!
  
 ## Author/s
 
