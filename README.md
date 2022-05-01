@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> All purpose, AI driven, discord bot. Built to be self-aware and all-knowing.
+> All purpose and AI driven discord bot. Built to be self-aware and all-knowing.
 
 ### ✨ [Invite the Bot](https://example.com)
 
