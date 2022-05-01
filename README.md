@@ -1,6 +1,6 @@
 <h1>Chappie 🤖</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-Alpha-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-dev-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/axtonprice/nexu-cms/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
