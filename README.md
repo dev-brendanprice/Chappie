@@ -8,7 +8,7 @@
 
 > All purpose and AI driven discord bot. Built to be self-aware and all-knowing.
 
-### ✨ [Invite the Bot](https://example.com)
+### ✨ [Invite the Bot](https://discord.com/api/oauth2/authorize?client_id=970114988494712833&permissions=412317248576&scope=bot)
 
 ## Installation
 
