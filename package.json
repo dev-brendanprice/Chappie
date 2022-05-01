@@ -1,10 +1,10 @@
 {
   "name": "chappie",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "All purpose and AI driven discord bot. Built to be self-aware and all-knowing.",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/brendanprice2003/Chappie#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.6.0",
+    "env": "^0.0.2"
   }
 }
