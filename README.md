@@ -7,6 +7,12 @@
   <a href="https://twitter.com/axtonprice" target="_blank">
     <img alt="Twitter: axtonprice" src="https://img.shields.io/twitter/follow/axtonprice.svg?style=social" />
   </a>
+    <a href="https://twitter.com/your_tilgo" target="_blank">
+    <img alt="Twitter: axtonprice" src="https://img.shields.io/twitter/follow/axtonprice.svg?style=social" />
+  </a>
+    <a href="https://twitter.com/axtonprice" target="_blank">
+    <img alt="Twitter: axtonprice" beru2003="https://img.shields.io/twitter/follow/axtonprice.svg?style=social" />
+  </a>
 </p>
 
 > All purpose, AI driven, discord bot. Built to be self-aware and all-knowing.
