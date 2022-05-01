@@ -14,7 +14,7 @@ module.exports = (bot, client, message) => {
     // Startup
     function updateStatus() {
         const //:
-            statusActivities = [{ name: `for new knowledge`, type: 'LISTENING' }, { name: `consciousness.exe`, type: 'PLAYING' }, { name: `for new data`, type: 'WATCHING' }],
+            statusActivities = [{ name: `hello-world.exe`, type: 'PLAYING' }, { name: `bootloader.exe`, type: 'PLAYING' }],
             newActivity = statusActivities[Math.floor(Math.random() * statusActivities.length)];
         bot.user.setActivity(newActivity.name, { type: newActivity.type });
     }
