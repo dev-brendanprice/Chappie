@@ -1,0 +1,9 @@
+# Node
+./node_modules/
+./.npm/
+./.cache/
+./.config/
+./package-lock.json
+
+# Secure
+./.env
