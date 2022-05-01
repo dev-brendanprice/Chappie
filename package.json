@@ -1,0 +1,22 @@
+{
+  "name": "chappie",
+  "version": "1.0.0",
+  "description": "All purpose and AI driven discord bot. Built to be self-aware and all-knowing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanprice2003/Chappie.git"
+  },
+  "author": "axtonprice, tillypr1ce, brendanprice2003",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendanprice2003/Chappie/issues"
+  },
+  "homepage": "https://github.com/brendanprice2003/Chappie#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
